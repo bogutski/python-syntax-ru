@@ -1,0 +1,490 @@
+{
+  "description": "Начинайте изучение Python прямо сейчас - вступайте в новую увлекательную жизнь программирования на Python! В этом курсе вы познакомитесь с базовыми понятиями программирования, освоите синтаксис языка и пройдете путь от самых простых задач по созданию переменной до составления функций. Курс подходит как новичкам, которые никогда не пробовали программировать, так и программистам, которые хотят вникнуть в новый для себя язык программирования.",
+  "image": "",
+  "sections": [
+    {
+      "lessons": [
+        {
+          "video": "https://youtu.be/vxrLwphkKKo",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5e960b5d968569003cb15f1b",
+          "name": "Что такое Python?"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5e98f0cc0ceb2e003c9c7213",
+          "name": "Играем в \"песочнице\". "
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5eaf282146c3db003c732fdd",
+          "name": "Комментарии в Python"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5e965b28968569003cb164c0",
+          "name": "Знакомимся с командой print()"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5e965ff1968569003cb16565",
+          "name": "Первая программа"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5e98f78e0ceb2e003c9c72a8",
+          "name": "Синтаксис языка Python"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5e9b6ac79928d2003c6a7cee",
+          "name": "Немного практики"
+        }
+      ],
+      "_id": "5e960a35968569003cb15f06",
+      "name": "Введение"
+    },
+    {
+      "lessons": [
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5e9b73e49928d2003c6a7d66",
+          "name": "Переменные"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5eaf2e4446c3db003c73304d",
+          "name": "Идентификаторы. Имена переменных"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5e9b748a9928d2003c6a7d76",
+          "name": "Форматный вывод строки"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5e9b74509928d2003c6a7d6c",
+          "name": "Арифметические операторы"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5eaf32f946c3db003c7330d3",
+          "name": "Операторы сравнения и логические операторы"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5eaf3d0246c3db003c733138",
+          "name": "Операторы присваивания"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f09fde3bb6b85003c8005c7",
+          "name": "Типы данных в Python"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f0a310ebb6b85003c800aba",
+          "name": "Преобразование типов"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f08f7619a042d003cd353ee",
+          "name": "Ввод информации с клавиатуры"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f0a36a1bb6b85003c800b36",
+          "name": "Строки"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f0f74d7900883003cdbe5ed",
+          "name": "Умножение строки на число. Получение части строки."
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f1624ae443f8a003c79723d",
+          "name": "Некоторые полезные функции"
+        }
+      ],
+      "_id": "5e9b73a69928d2003c6a7d5c",
+      "name": "Переменные, операторы"
+    },
+    {
+      "lessons": [
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f147b64f5de03003c051128",
+          "name": "Условия"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f149a7af5de03003c052190",
+          "name": "Условный оператор if else"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f14e150eae35b003c28247a",
+          "name": "Тернарный оператор"
+        }
+      ],
+      "_id": "5f0a3961bb6b85003c800ba7",
+      "name": "Условия. Условные операторы"
+    },
+    {
+      "lessons": [
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f15bbedeae35b003c287c69",
+          "name": "Что мы уже знаем о строках?"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f1b7c42f4cd7f003cac50d4",
+          "name": "Определение свойств строки"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f15c304eae35b003c288208",
+          "name": "Поиск подстроки в строке. "
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f16159f443f8a003c796f06",
+          "name": "Количество вхождений подстроки в строку"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f18b26d23dffc003c69a4b9",
+          "name": "Выравнивание строки по ширине"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f18b88723dffc003c69ae3e",
+          "name": "Изменение регистра символов"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f18b95623dffc003c69af8d",
+          "name": "Заканчивается ли (начинается ли) строка заданной подстрокой?"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f18c6bb23dffc003c69c36d",
+          "name": "Входит ли подстрока в строку?"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f1b80ccf4cd7f003cac54cd",
+          "name": "Удаление символов в начале и в конце строки"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f1b80fff4cd7f003cac54d4",
+          "name": "Замена символов в строке"
+        }
+      ],
+      "_id": "5f15bb96eae35b003c287bd0",
+      "name": "Методы работы со строками"
+    },
+    {
+      "lessons": [
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f22013a863aab003c3b2db6",
+          "name": "Цикл while"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f234130869685003c45ccbe",
+          "name": "Функция range"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f220a60863aab003c3b5cd1",
+          "name": "Цикл for"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f23363b869685003c45a578",
+          "name": "Циклы по строке"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f2e1282770b11003c28a4be",
+          "name": "Прерывание циклов"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f3f0414094a1e003c38a73d",
+          "name": "Оператор pass"
+        }
+      ],
+      "_id": "5f1e1ae579b053003cb7caa5",
+      "name": "Циклы"
+    },
+    {
+      "lessons": [
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f24e8cc60c655003c8b3df1",
+          "name": "Создание функции "
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f29881304bb29003c164077",
+          "name": "Решение задач с использованием функций (задачи c условным оператором if-else)"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f2dec54770b11003c281821",
+          "name": "Решение задач с использованием функций (комбинирование циклов и условных операторов)"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f320f7543a824003cd9ad41",
+          "name": "Решение задач с использованием функций (работа со строками)"
+        }
+      ],
+      "_id": "5f24e52760c655003c8b33ac",
+      "name": "Функции"
+    },
+    {
+      "lessons": [
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f3c66a5664c63003cf1f278",
+          "name": "Что такое список?"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f3c8173b4fdec003c5b5a7e",
+          "name": "Циклы по списку"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f4339e33daf42003ca65c0e",
+          "name": "Способы создания и заполнения списка"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f3c6a18664c63003cf209f9",
+          "name": "Получение части списка (срез)"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f3f052c094a1e003c38aedc",
+          "name": "Изменение, добавление, вставка элементов списка"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f3f411742e87c003c908c3a",
+          "name": "Удаление элементов массива"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f5ba4accc9e80003c38973d",
+          "name": "Получение массива из строки - метод split()"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f4340503daf42003ca68ace",
+          "name": "Преобразование массива в строку - метод join() "
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f45972a32672a003c712b78",
+          "name": "Поиск элемента в массиве - метод index()"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f5ba9a2cc9e80003c389ead",
+          "name": "Количество вхождений элемента в список - метод count()"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f7a6bccfee369003cd450db",
+          "name": "Нахождение максимального и минимального элемента массива"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f863abc559670003ca6425d",
+          "name": "List comprehension"
+        }
+      ],
+      "_id": "5f3c62ad664c63003cf1de04",
+      "name": "Массивы (lists)"
+    },
+    {
+      "lessons": [
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f8635c3559670003ca630ac",
+          "name": "Создание словаря"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f863c89559670003ca64d0b",
+          "name": "Доступ к элементам словаря"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f91f538c78961003cca8d6c",
+          "name": "Добавление нового элемента к словарю"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f91f6d3c78961003ccaa249",
+          "name": "Удаление элемента из словаря"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f91fa69c78961003ccacc58",
+          "name": "Проверка наличия ключа в словаре"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f91fe1cc78961003ccafbc3",
+          "name": "Получение списка ключей, списка значений и списка элементов словаря"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f920403c78961003ccb2178",
+          "name": "Обход элементов словаря в цикле"
+        },
+        {
+          "video": "",
+          "description": "",
+          "questionGroups": [],
+          "_id": "5f863435559670003ca61a7d",
+          "name": "Заполнение словаря с помощью ввода данных с клавиатуры"
+        }
+      ],
+      "_id": "5f86328e559670003ca6095a",
+      "name": "Словари"
+    }
+  ],
+  "_id": "5e8f4bf674a4cd003c2a713c",
+  "name": "Python Syntax"
+}
